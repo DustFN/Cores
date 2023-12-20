@@ -1,4 +1,4 @@
-# Arcane-Backend
-### A Universal Backend For OGFN
+# Core-Backend
+### To play og fn
 
 # Features:
