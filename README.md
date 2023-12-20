@@ -3,7 +3,17 @@
 
 # Features:
  Addning Battlepass
+ 
+
+ 
  Adding Parties
+ 
+
+ 
  Adding Built-in Matchmaker
+ 
+
+ 
  Adding Discord Bot And Website
+ 
 
