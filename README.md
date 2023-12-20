@@ -2,18 +2,18 @@
 ### To play og fn
 
 # Features:
- Addning Battlepass
+ ~Adding Battlepass
  
 
  
- Adding Parties
+ ~Adding Parties
  
 
  
- Adding Built-in Matchmaker
+ ~Adding Built-in Matchmaker
  
 
  
- Adding Discord Bot And Website
+ ~Adding Discord Bot And Website
  
 
